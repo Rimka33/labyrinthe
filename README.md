@@ -24,7 +24,7 @@ Le projet est organisé en plusieurs packages :
 - `MazeSolver.java` : Interface définissant les méthodes de résolution
 - `BFS.java` : Implémentation de l'algorithme de parcours en largeur
 - `DFS.java` : Implémentation de l'algorithme de parcours en profondeur
-- `MazeAnalyzer.java` : Analyse des performances des algorithmes
+
 
 ### Package `ui`
 - `MazeGUI.java` : Interface graphique principale
